@@ -12,7 +12,7 @@ Built as part of my transition from a **backend development background into data
 
 > The project can also be explored directly from this repository using the included Power BI `.pbix` file.
 
-\---
+---
 
 ## Project Overview
 
@@ -25,7 +25,7 @@ NYC taxi activity changes significantly by **hour, day, location, and weather co
 * Which boroughs combine high demand with different mobility characteristics?
 * What operational insights can be drawn while staying within the limits of trip-level data?
 
-\---
+---
 
 ## Key Business Questions
 
@@ -48,7 +48,7 @@ NYC taxi activity changes significantly by **hour, day, location, and weather co
 * How does rain affect trip duration?
 * How does rain affect average travel speed?
 
-\---
+---
 
 ## Tools \& Technologies
 
@@ -61,7 +61,7 @@ NYC taxi activity changes significantly by **hour, day, location, and weather co
 |**Power BI**|Data modelling, DAX measures and dashboard development|
 |**Jupyter Notebook**|Data preparation workflow|
 
-\---
+---
 
 ## Data Sources
 
@@ -71,7 +71,7 @@ The analysis combines:
 * **NYC Taxi Zone Lookup** — zone names and borough classifications for geographic analysis.
 * **Hourly Weather Data** — weather observations matched with taxi activity to analyze rain-related demand and mobility impacts.
 
-\---
+---
 
 # Dashboard
 
@@ -88,9 +88,9 @@ The overview page summarizes the scale of NYC Yellow Taxi activity and highlight
 
 The analysis shows a strong evening demand peak, with the highest activity occurring around **6 PM**. Demand also varies meaningfully across months and days of the week.
 
-!\[Overview Dashboard](images/01\_overview.png)
+![Overview Dashboard](images/01\_overview.png)
 
-\---
+---
 
 ## 2\. Demand \& Geography
 
@@ -105,9 +105,9 @@ Key views include:
 
 A notable finding is that **Midtown Center becomes the highest-demand pickup zone at the 6 PM peak**, while **Upper East Side South leads overall trip volume**, showing that demand geography changes during peak periods.
 
-!\[Demand \& Geography Dashboard](images/02\_demand\_geography.png)
+![Demand \& Geography Dashboard](images/02\_demand\_geography.png)
 
-\---
+---
 
 ## 3\. Weather Impact
 
@@ -121,9 +121,9 @@ Weather observations were matched with taxi activity to compare **rain vs no-rai
 
 Together, these changes indicate greater mobility pressure during rainy periods: more trips are requested while journeys take longer and travel speeds decline.
 
-!\[Weather Impact Dashboard](images/03\_weather\_impact.png)
+![Weather Impact Dashboard](images/03\_weather\_impact.png)
 
-\---
+---
 
 ## 4\. Data \& Methodology
 
@@ -145,9 +145,9 @@ The project follows an end-to-end analytics pipeline:
 * Enriched trip records using taxi zone and borough lookup data.
 * Loaded cleaned data into SQL Server and created reporting views for Power BI.
 
-!\[Data \& Methodology Dashboard](images/04\_data\_methodology.png)
+![Data \& Methodology Dashboard](images/04\_data\_methodology.png)
 
-\---
+---
 
 ## 5\. Recommendations \& Limitations
 
@@ -168,11 +168,11 @@ The final page translates findings into practical, data-supported considerations
 * The analysis includes **NYC Yellow Taxi trips only** and does not represent the complete transportation market.
 * The project focuses on **demand and mobility patterns**; fare and revenue impacts were not analyzed.
 
-!\[Recommendations \& Limitations Dashboard](images/05\_recommendations\_limitations.png)
+![Recommendations \& Limitations Dashboard](images/05\_recommendations\_limitations.png)
 
 
 
-\---
+---
 
 ## How to Explore This Project
 
@@ -183,7 +183,7 @@ The final page translates findings into practical, data-supported considerations
 
 
 
-\---
+---
 
 # Project Structure
 
@@ -220,7 +220,7 @@ Urban\_Mobility\_Intelligence/
 
 > \*\*Note:\*\* Raw and cleaned data files are excluded from version control due to file size. See the notebooks for the complete data preparation and analysis pipeline.
 
-\---
+---
 
 ## What This Project Demonstrates
 
@@ -235,7 +235,7 @@ This project demonstrates the ability to:
 * Design a multi-page Power BI dashboard.
 * Translate analysis into findings while clearly communicating limitations.
 
-\---
+---
 
 ## Author
 
@@ -247,7 +247,7 @@ I come from a backend development background and am transitioning into data anal
 * **LinkedIn:** [www.linkedin.com/in/gurram-harshitha-939179277/](https://www.linkedin.com/in/gurram-harshitha-939179277/)
 * **GitHub:** [github.com/gurramharshitha7](https://github.com/gurramharshitha7)
 
-\---
+---
 
 If you found this project interesting, feel free to explore the repository, notebooks, SQL workflow, and Power BI dashboard.
 
