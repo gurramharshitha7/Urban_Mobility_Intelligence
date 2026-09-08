@@ -189,39 +189,31 @@ The final page translates findings into practical, data-supported considerations
 # Project Structure
 
 ```text
-Urban\_Mobility\_Intelligence/
+Urban_Mobility_Intelligence/
 │
-├── data/
-│   └── Raw taxi and lookup data
-│
-├── weather\_data/
-│   └── Hourly weather data
-│
-├── cleaned\_data/
-│   └── Cleaned and transformed datasets
+├── images/
+│   ├── 01_overview.png
+│   ├── 02_demand_geography.png
+│   ├── 03_weather_impact.png
+│   ├── 04_data_methodology.png
+│   └── 05_recommendations_limitations.png
 │
 ├── notebooks/
-│   └── Python data preparation notebooks
+│   └── Python data preparation and analysis notebooks
 │
 ├── sql/
 │   └── SQL scripts and reporting views
 │
 ├── powerbi/
-│   └── Urban\_Mobility\_Intelligence.pbix
+│   └── Urban_Mobility_Intelligence.pbix
 │
-├── images/
-│   ├── 01\_overview.png
-│   ├── 02\_demand\_geography.png
-│   ├── 03\_weather\_impact.png
-│   ├── 04\_data\_methodology.png
-│   └── 05\_recommendations\_limitations.png
+├── data_dictionary_trip_records_yellow.pdf
+├── taxi_zone_lookup.csv
 │
 └── README.md
 ```
 
-> \*\*Note:\*\* Raw and cleaned data files are excluded from version control due to file size. See the notebooks for the complete data preparation and analysis pipeline.
 
----
 
 ## What This Project Demonstrates
 
