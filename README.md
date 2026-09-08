@@ -70,6 +70,7 @@ The analysis combines:
 * **NYC Yellow Taxi Trip Records** — 2025 trip-level pickup, drop-off and trip performance data.
 * **NYC Taxi Zone Lookup** — zone names and borough classifications for geographic analysis.
 * **Hourly Weather Data** — weather observations matched with taxi activity to analyze rain-related demand and mobility impacts.
+* **NYC Yellow Taxi Data Dictionary** — reference documentation used to understand trip record fields, definitions and data structure.
 
 ---
 
