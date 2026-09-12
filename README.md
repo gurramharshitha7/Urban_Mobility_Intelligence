@@ -232,9 +232,6 @@ Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
 I come from a backend development background and am transitioning into data analytics, with a focus on building end-to-end projects that combine data preparation, SQL, analysis, and business-focused dashboards.
 
-* **LinkedIn:** [www.linkedin.com/in/gurram-harshitha-939179277/](https://www.linkedin.com/in/gurram-harshitha-939179277/)
-* **GitHub:** [github.com/gurramharshitha7](https://github.com/gurramharshitha7)
-
 ---
 
 If you found this project interesting, feel free to explore the repository, notebooks, SQL workflow, and Power BI dashboard.
