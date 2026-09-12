@@ -5,11 +5,6 @@ Built as part of my transition from a **backend development background into data
 **Analytics workflow:**  
 **Python → Data Cleaning \& Feature Engineering → SQL Server → Power BI → Business Insights**
 
-## 🔗 Links
-
-* **LinkedIn:** [www.linkedin.com/in/gurram-harshitha-939179277/](https://www.linkedin.com/in/gurram-harshitha-939179277/)
-* **GitHub Profile:** [github.com/gurramharshitha7](https://github.com/gurramharshitha7)
-
 > The project can also be explored directly from this repository using the included Power BI `.pbix` file.
 
 ---
